@@ -30,6 +30,7 @@ He aquí unos cambios que he hecho:
 - Las cinemáticas.
 - Los ajustes.
 - Textos variados como la advertencia al comienzo del videojuego o los créditos.
+
 Aun habiendo trabajado en ello, en el tutorial era incapaz de colocar tildes, así que he preferido que el gatito diablo que te instruye tenga más excentricismo en sus diálogos, así camuflo el problema.
 ¡Gracias por (saber) leer!
 -Nat.
@@ -64,6 +65,7 @@ Here are some changes I've made:
 - Cutscenes.
 - Settings.
 - Various texts, like the warning at the beginning of the game and the credits.
+
 Even after working on it, I couldn't get the accents right in the tutorial, so I decided to give the devilish kitten who instructs you more eccentricity in its dialogue to disguise the problem.
 Thanks for reading!
 -Nat.
