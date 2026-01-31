@@ -6,7 +6,7 @@ ESPAÑOL
 ¡Gracias por instalar mi traducción!
 Toma un montón de tiempo en traducir diálogos y de esfuerzo en modificar sprites y que se sigan viendo lo más vanilla posible.
 
-Guía de instalación
+Guía de Instalación
 ===========================================================================================================================================
 Simplemente extrae todos los archivos a la carpeta principal de la demo de MINDWAVE.
 Remplaza todos los archivos que te pidan.
@@ -15,7 +15,7 @@ Si no sabes acceder a los archivos de la demo de MINDWAVE, sigue los siguientes 
 1. Accede a la página de MINDWAVE en tu biblioteca de Steam
 2. Pulsa en el símbolo de tuerca, luego "Administrar", "Ver archivos locales" y debería abrirse una ventana de tu navegador de archivos!
 
-Diario de desarrollo 0.1
+Diario de Desarrollo 0.1
 =======
 
 ¡Hola! Soy Nat.
